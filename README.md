@@ -11,7 +11,7 @@
 | 開課學期 | 2025 Fall（114 學年度第 1 學期） |
 | 專案性質 | 課程作業（Assignment 1–5）與期末專題 |
 | 課程大綱 | [NCKU 課程大綱](https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0114&sem=1&co_no=P681700&class_code=) |
-| GitHub Repository | `[待補上 Repository URL]` |
+| GitHub Repository | [GitHub Repository](https://github.com/shihalex/Image-Processing-and-Deep-Learning.git) |
 
 ## 目錄
 
